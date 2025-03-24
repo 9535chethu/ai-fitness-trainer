@@ -27,9 +27,3 @@ A real-time fitness trainer application that uses **MediaPipe's Pose Estimation*
 - MediaPipe for pose and face landmark detection
 - NumPy for angle calculations
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone 'https://github.com/9535chethu/ai-fitness-trainer.git'
-   cd ai-fitness-trainer
